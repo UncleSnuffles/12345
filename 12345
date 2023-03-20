@@ -1,33 +1,3 @@
-Skip to content
-Product
-Solutions
-Open Source
-Pricing
-Search
-Sign in
-Sign up
-violin-suzutsuki
-/
-LinoriaLib
-Public
-Code
-Issues
-1
-Pull requests
-2
-Actions
-Projects
-Security
-Insights
-LinoriaLib/Library.lua
-@violin-suzutsuki
-violin-suzutsuki Merge branch 'main' of https://github.com/violin-suzutsuki/LinoriaLib
-Latest commit 4ebc2f9 on Apr 19, 2022
- History
- 2 contributors
-@wally-rblx@violin-suzutsuki
-2544 lines (2050 sloc)  78.3 KB
-
 local InputService = game:GetService('UserInputService');
 local TextService = game:GetService('TextService');
 local TweenService = game:GetService('TweenService');
@@ -2572,18 +2542,3 @@ function Library:CreateWindow(WindowTitle)
 end;
 
 return Library;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-LinoriaLib/Library.lua at main · violin-suzutsuki/LinoriaLib · GitHub
